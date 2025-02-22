@@ -2,7 +2,7 @@ function mostraNome(nome){
     return nome
 }
 
-function mostraNSobrenome(sobrenome){
+function mostraSobrenome(sobrenome){
     return sobrenome;
 }
 
